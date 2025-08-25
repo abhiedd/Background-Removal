@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pillow
+aiohttp
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+transformers
+python-multipart
+--extra-index-url https://download.pytorch.org/whl/cpu
